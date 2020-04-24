@@ -3,7 +3,7 @@ Whenever the ultrasonic sensor detects any obstacle led,buzzer,camera turns on..
 hope you know opencv and Nueral Networks, machine learning,Tensorflowobject recognition...
 
 download  my  files..above..
-to your tensorflow/research/objectdetection
+to your tensorflo
 execute the blindsmartmainscript.py
 video link-https://youtu.be/jKYtI5abD0o
 atleast subscribe my channel please 
